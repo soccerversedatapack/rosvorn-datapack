@@ -945922,7 +945922,7 @@
           "i": "div1.png"
         }
       ],
-      "baseImageUrl": "https://downloads.soccerverse.com/svpack/packv2/leagues/"
+      "baseImageUrl": "https://raw.githubusercontent.com/soccerversedatapack/rosvorn-datapack/refs/heads/main/leagues/"
     },
     "CupData": {
       "C": [
