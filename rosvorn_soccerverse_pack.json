@@ -943663,7 +943663,7 @@
           "n": "Vegas Stadium"
         }
       ],
-      "baseImageUrl": "#"
+      "baseImageUrl": "https://raw.githubusercontent.com/soccerversedatapack/rosvorn-datapack/refs/heads/main/stadiums/"
     },
     "LeagueData": {
       "L": [
